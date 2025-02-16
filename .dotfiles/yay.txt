@@ -1,0 +1,6 @@
+spotify-player-full
+spotify-player-full-debug
+spotify-tui
+spotify-tui-debug
+yay
+yay-debug
