@@ -27,8 +27,6 @@ kate
 konsole
 lazygit
 less
-lib32-libpulse
-lib32-vulkan-radeon
 libpulse
 linux
 linux-firmware
