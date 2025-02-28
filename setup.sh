@@ -2,8 +2,8 @@
 
 # Get script directory
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-PACKAGES_FILE="$HOME/pkglist.txt"
-AUR_PACKAGES_FILE="$HOME/yay.txt"
+PACKAGES_FILE="$HOME/paclist.txt"
+AUR_PACKAGES_FILE="$HOME/aurlist.txt"
 
 # Check if packages files exist
 if [ ! -f "$PACKAGES_FILE" ]; then
