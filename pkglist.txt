@@ -16,7 +16,6 @@ docker-compose
 dolphin
 efibootmgr
 firefox
-flameshot
 flatpak
 git
 gst-plugin-pipewire
@@ -53,9 +52,6 @@ plasma-meta
 plasma-workspace
 smartmontools
 sof-firmware
-spotify-player-full
-spotify-tui
-steam
 system-config-printer
 tmux
 unzip
@@ -72,3 +68,4 @@ xorg-xinit
 yay
 yay-debug
 zram-generator
+npm
